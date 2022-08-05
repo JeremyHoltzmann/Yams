@@ -1,2 +1,2 @@
 # Yams
-Projet-Defi sur 2 semaines, utilisation de React et d'une base de données
+Projet-Defi réalisé seul sur 2 semaines, utilisation de React et d'une base de données
